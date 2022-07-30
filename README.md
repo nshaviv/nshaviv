@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nshaviv
 - 👀 I’m interested in Astrophysics and Climate
-- 📫 You can reach me throuh nshaviv@gmail.com
+- 📫 You can reach me through nshaviv@gmail.com
 
 <!---
 nshaviv/nshaviv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
