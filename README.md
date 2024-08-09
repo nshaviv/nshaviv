@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @nshaviv
-- 👀 I’m interested in Astrophysics and Climate
-- 📫 You can reach me through nshaviv@gmail.com
+Hi! 👋
+
+I'm Nir Shaviv (@nshaviv), a Professor of Physics at the Hebrew University. 
+
+I’m interested in astrophysics, climate and computational physics. 
 
 <!---
 nshaviv/nshaviv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
